@@ -1,4 +1,4 @@
-# Module 4 Code Challenge: Poesy
+# Code Challenge: Poesy
 
 My live link: https://deniskinyua.github.io/Poesy/
 
